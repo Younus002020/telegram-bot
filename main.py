@@ -15,7 +15,7 @@ from telethon.errors import FloodWaitError
 # === API & Token ===
 API_ID = 23374112
 API_HASH = '35f9ae3c219d6f765cd59641c9a54d5e'
-BOT_TOKEN = '8039743985:AAE3FLQ05X8ZIrH-TaOPhCTVdFH8hoZF4_E'
+BOT_TOKEN = '7072897444:AAFJffx-vh9jwPnvc5KxveVpjrDR4KWddDY'
 ADMIN_USER_ID = 6635274543  # আপনার টেলিগ্রাম ইউজার আইডি
 
 # === States ===
